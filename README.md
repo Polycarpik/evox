@@ -1,2 +1,2 @@
 # evox
-Contracts for E-Vox project
+Contracts for http://e-vox.org project
